@@ -7,12 +7,13 @@ public class MathTester {
         String secondWord;
 
        firstWord = "dog";
-       secondWord = "house"
+       secondWord = "house";
 
-        int firstNumber, secondNumber, thirdNumber;
-        firstNumber = 3;
-        secondNumber = 8;
-        thirdNumber = 4;
+        int firstNumber, secondNumber;
+
+        firstNumber = 5;
+        secondNumber = 10;
+
 
 
        firstWord =
