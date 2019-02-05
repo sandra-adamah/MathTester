@@ -1,6 +1,6 @@
 package com.LickingHeights;
 
-public class MathTester {
+public class Main {
 
     public static void main(String[] args){
         String firstWord;
@@ -14,9 +14,12 @@ public class MathTester {
         firstNumber = 5;
         secondNumber = 10;
 
+        System.out.println(firstWord+secondWord);
+        System.out.println(firstWord+firstNumber);
 
 
-       firstWord =
+
+
 
     }
 }
